@@ -1,0 +1,9 @@
+export const Background = require('./initialBackground.png');
+export const AfterModalBackground = require('./background1.png');
+export const Logo = require('./logo.png');
+export const Glitter = require('./glitter.png');
+export const Heading = require('./heading.png');
+export const Success = require('./success.png');
+export const RightArrow = require('./arrow.png');
+export const CheckBox = require('./checkBox.png');
+export const Checked = require('./checked.png');
